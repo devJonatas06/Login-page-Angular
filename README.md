@@ -53,9 +53,11 @@ src/
     POST /auth/login → Login do usuário
 
     POST /auth/register → Registro do usuário
+```
 
 📸 Screenshots
-<p float="left"> <img src="screenshot-login.png" width="300"/> <img src="screenshot-signup.png" width="300"/> </p>
+<p float="left"> <img width="600"  alt="image" src="https://github.com/user-attachments/assets/f19e1370-bdb4-4153-8506-84450c1f74cf" />
+<img width="600"  alt="image" src="https://github.com/user-attachments/assets/4f7a50b8-d26f-4bda-a16f-60593c19a042" />
 
 👨‍💻 Autor
 
